@@ -1,0 +1,5 @@
+quarkus:
+  datasource:
+    db-kind: postgresql
+    username: postgres
+    password: 1234
